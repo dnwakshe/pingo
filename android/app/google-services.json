@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "148529237926",
+    "project_id": "dating-app-1da2b",
+    "storage_bucket": "dating-app-1da2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148529237926:android:4e3d10f5767e9ce6210967",
+        "android_client_info": {
+          "package_name": "com.example.dating_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148529237926-qv67usi1lg4agotdnnq2f2iandnhdr9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKLrUAVM-l12bUcupJq4q1A062TeIe1rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148529237926-qv67usi1lg4agotdnnq2f2iandnhdr9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148529237926:android:94b0067cb36fd243210967",
+        "android_client_info": {
+          "package_name": "com.example.pingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148529237926-qv67usi1lg4agotdnnq2f2iandnhdr9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKLrUAVM-l12bUcupJq4q1A062TeIe1rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148529237926-qv67usi1lg4agotdnnq2f2iandnhdr9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
